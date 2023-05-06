@@ -25,11 +25,12 @@ public class Account {
         return balance;
     }
     public int credit(int amount) {
+        balance += amount;
         return balance;
     }
     public void debit(double amount) {
         if (balance >= amount) {
-            balance += amount;
+            balance -= amount;
         } else {
             System.out.println("Amount exceeded balance.");
         }
