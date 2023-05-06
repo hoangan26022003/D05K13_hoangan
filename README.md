@@ -13,4 +13,5 @@ bài 6
 ![image](https://user-images.githubusercontent.com/132539604/236625569-51031f74-b1e9-46ea-94d8-63cbaecc4412.png)
 bài 7
 ![image](https://user-images.githubusercontent.com/132539604/236627819-48f45c6c-6070-4f9b-870e-1e1c97504d37.png)
-
+bài 8
+![image](https://user-images.githubusercontent.com/132539604/236629323-b061ee1e-fa0c-46d7-a88c-fed7c8e16aaf.png)
